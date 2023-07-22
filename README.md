@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&reversal=true&height=200)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=35AEA1&center=true&width=512&height=100&lines=Hello%2C+my+name+is+Elias+Lopes+;welcome+to+my+GitHub.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=35AEA1&center=true&width=800&height=100&lines=Hello%2C+my+name+is+Elias+Lopes+;Welcome+to+my+GitHub.)](https://git.io/typing-svg)
       
 <div align="center">  
 <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliaszlsp&show_icons=true&theme=tokyonight" />
