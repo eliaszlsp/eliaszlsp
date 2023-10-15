@@ -7,7 +7,7 @@
 <img width="300px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliaszlsp&show_icons=true&theme=tokyonight&layout=compact" />
 </div>
 
-### Entre em contato comigo! 📭
+### 📭 Entre em contato comigo! 
 
 <div>
 <a href="https://instagram.com/elias_lopessp" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -17,21 +17,17 @@
 ### Sobre mim 
 
 
-💻 Eu sou um desenvolvedor Front-End 
+💻 Eu sou um desenvolvedor Front-End.
 
+🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End.
 
-🎓 Eu estudo [Desenvolvimento de Software com Foco em Back-End
+🔎 Também sou curioso sobre Inteligência Artificial, Eletrônica e Automação.
 
+✒️ Eu gosto de, no meu tempo livre, jogar video game, assistir e estudar.
 
+📚 Lendo: "Como Fazer Amigos e Influenciar Pessoas".
 
-🔎 Também sou curioso sobre [Inteligencia Artificial,Eletronica,Automação.]
-
-✒️ Eu gosto de no meu tempo livre [Jogar video game,assitir,Estudar];
-
-📚 Lendo: [como fazer amigos e influenciar pessoas]
-
-
-### Eu já trabalhei com... 🔧
+### 🔧 Eu já trabalhei com... 
 
 **Tecnologias e Ferramentas**
 
@@ -46,7 +42,7 @@
 
 
 
-### Eu estou estudando... 🧩
+### 🧩 Eu estou estudando... 
 
 
 
