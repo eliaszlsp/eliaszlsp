@@ -23,7 +23,7 @@
 
 🔎 Também sou curioso sobre Inteligência Artificial, Eletrônica e Automação.
 
-✒️ Eu gosto de, no meu tempo livre, jogar video game, assistir e estudar.
+✒️ Eu gosto  no meu tempo livre de jogar video game, assistir e estudar.
 
 📚 Lendo: "Como Fazer Amigos e Influenciar Pessoas".
 
