@@ -17,9 +17,7 @@
 ### Sobre mim 
 
 
-💻 Eu sou um desenvolvedor Front-End.
-
-🎓 Eu estudo Desenvolvimento de Software com Foco em Back-End.
+💻 Eu sou um desenvolvedor Full-Stack 
 
 🔎 Também sou curioso sobre Inteligência Artificial, Eletrônica e Automação.
 
