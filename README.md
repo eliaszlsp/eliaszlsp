@@ -1,6 +1,6 @@
 
-![header](https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=0000ff&reversal=true&height=200)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=FFFFFF&center=true&width=800&height=100&lines=Hello%2C+my+name+is+Elias+Lopes+;Welcome+to+my+GitHub.)](https://git.io/typing-svg)
+<!--![header](https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=0000ff&reversal=true&height=200)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=FFFFFF&center=true&width=800&height=100&lines=Hello%2C+my+name+is+Elias+Lopes+;Welcome+to+my+GitHub.)](https://git.io/typing-svg)-->
 
 
 ### 🚀 GitHub Insights    
