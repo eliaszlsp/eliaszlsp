@@ -1,10 +1,18 @@
 
 ![header](https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=0000ff&reversal=true&height=200)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&pause=1000&color=FFFFFF&center=true&width=800&height=100&lines=Hello%2C+my+name+is+Elias+Lopes+;Welcome+to+my+GitHub.)](https://git.io/typing-svg)
-      
+
+
+### 🚀 GitHub Insights    
+> 💡 Sempre em evolução: praticando, estudando e contribuindo com projetos reais.
 <div align="center">  
 <img width="400px" height="195px" src="https://github-readme-stats.vercel.app/api?username=eliaszlsp&show_icons=true&theme=tokyonight" />
 <img width="300px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliaszlsp&show_icons=true&theme=tokyonight&layout=compact" />
+  <img 
+    alt="GitHub Streak" 
+    height="180em" 
+    src="https://streak-stats.demolab.com/?user=eliaszlsp&theme=tokyonight&locale=pt-br&date_format=j%20M%5B%20Y%5D"
+  />      
 </div>
 
 ### 📭 Entre em contato comigo! 
